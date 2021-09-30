@@ -27,3 +27,4 @@ The theme was created and is actively maintained by [mimoYmima] a web design stu
   [html5.mimoymima.com]: http://html5.mimoymima.com
   [The mother of all body tags]: http://www.mimoymima.com/2010/03/lab/wordpress-body-tag/
   [Smart sidebar disable]: http://www.mimoymima.com/2010/03/lab/disable-sidebar/
+  Thank You
